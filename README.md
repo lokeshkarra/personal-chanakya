@@ -15,11 +15,11 @@
 ---
 
 ## 📁 Project Structure
-
+```
 personal-chanakya/
 ├── backend # Node.js backend with AI integration
 └── frontend # React frontend for user interaction
-
+```
 ---
 
 ## 🚀 Getting Started
