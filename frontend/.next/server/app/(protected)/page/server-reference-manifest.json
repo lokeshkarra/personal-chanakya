@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40e6611f387fd99ae41eb0a31fd8429755c6e9cc08": {
+      "workers": {
+        "app/(protected)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protected)/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/voice-query.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protected)/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
